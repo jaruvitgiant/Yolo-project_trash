@@ -1,13 +1,27 @@
-<img src="video-test/train_batch1.jpg" alt="ผลการเทรน" width="500"/>
-<img src="video-test/img-test.jpg" alt="ผลการเทรน" width="500"/>
+# 🔍 YOLO Object Detection Demo
 
+## 📸 ตัวอย่างผลการเทรน
 
-ขั้นตอนการใช้งาน
-ติดตั้ง pip install virtualenv
+<img src="video-test/train_batch1.jpg" alt="ผลการเทรนรอบแรก" width="500"/>
+<img src="video-test/img-test.jpg" alt="ผลการทดสอบ" width="500"/>
 
+---
+
+## 🚀 ขั้นตอนการใช้งาน
+
+### 1. สร้าง Virtual Environment และติดตั้ง Ultralytics
+
+```bash
+# ติดตั้ง virtualenv หากยังไม่มี
+pip install virtualenv
+
+# สร้าง virtual environment ชื่อ myYoLo
 virtualenv myYoLo
-.\myYoLo\scripts\activate
 
+# เข้าใช้งาน virtual environment (สำหรับ Windows)
+.\myYoLo\Scripts\activate
+
+# ติดตั้ง ultralytics ซึ่งรวม YOLOv8
 pip install ultralytics
 
 ทดลองการใช้งาน โดยการสร้างไฟล์ *.py โดยมีโค้ดตามด้านล่าง
