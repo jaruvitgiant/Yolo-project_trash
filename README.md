@@ -1,5 +1,5 @@
 <img src="video-test/train_batch1.jpg" alt="ผลการเทรน" width="500"/>
-<img src="video-test/img.jpg" alt="ผลการเทรน" width="500"/>
+<img src="video-test/img-test.jpg" alt="ผลการเทรน" width="500"/>
 
 
 ขั้นตอนการใช้งาน
