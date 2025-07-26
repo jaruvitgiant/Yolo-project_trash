@@ -1,0 +1,16 @@
+# ไม่เอาไฟล์โมเดล YOLO
+best.pt
+runs/
+*.pt
+
+# ไม่เอา virtual environments
+.venv/
+.myYolovenv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# ไม่เอาวิดีโอหรือข้อมูลเทรนขนาดใหญ่
+# *.mp4
+# datasets/

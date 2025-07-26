@@ -1,0 +1,5 @@
+train: D:/ALL_CLASS-3-2568/deep ML/Week6Yolo/datasets/train/images
+val: D:/ALL_CLASS-3-2568/deep ML/Week6Yolo/datasets/valid/images
+
+nc: 2  # จำนวนคลาส
+names: [ 'plastic','glass']
