@@ -40,3 +40,5 @@ https://docs.ultralytics.com/modes/predict/
 ultralytics input dataset format
 https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format
 
+
+![คำอธิบายรูป (alt text)](video-test/train_batch1.jpg)
