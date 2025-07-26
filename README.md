@@ -1,5 +1,7 @@
 <img src="video-test/train_batch1.jpg" alt="ผลการเทรน" width="500"/>
 
+
+ขั้นตอนการใช้งาน
 ติดตั้ง pip install virtualenv
 
 virtualenv myYoLo
