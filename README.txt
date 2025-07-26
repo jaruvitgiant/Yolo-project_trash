@@ -1,3 +1,4 @@
+![รูป](video-test/train_batch1.jpg)
 
 ติดตั้ง pip install virtualenv
 
@@ -41,4 +42,3 @@ ultralytics input dataset format
 https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format
 
 
-![รูป](video-test/train_batch1.jpg)
