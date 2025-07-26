@@ -1,4 +1,4 @@
-![รูป](video-test/train_batch1.jpg)
+<img src="video-test/train_batch1.jpg" alt="ผลการเทรน" width="500"/>
 
 ติดตั้ง pip install virtualenv
 
