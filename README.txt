@@ -41,4 +41,4 @@ ultralytics input dataset format
 https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format
 
 
-![คำอธิบายรูป (alt text)](video-test/train_batch1.jpg)
+![รูป](video-test/train_batch1.jpg)
